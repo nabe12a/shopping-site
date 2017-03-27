@@ -110,14 +110,17 @@ header .pc_menu {
   position: relative;
   top: 0; }
 #maincontents #eyecatch .owl-dots .owl-dot {
-  display: inline-block; }
+  display: inline-block;
+  text-align: left;}
   #maincontents #eyecatch .owl-dots .owl-dot span {
     display: block;
     border-radius: 0;
     width: 25px;
     height: 2px;
     margin: 0 8px 0 0;
-    background-color: #aaaaaa; }
+    background-color: #aaaaaa; 
+    
+  }
 #maincontents #eyecatch .active span {
   background-color: #9d1a2d !important; }
 #maincontents .sp_title {
